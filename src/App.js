@@ -8,7 +8,7 @@ export default function App() {
     <div>
       {user ? <div>
         <SignInSignUp/>
-      </div> : <h1>No estas Logueado</h1>};
+      </div> : <h1>No estas Logueado</h1>}
     </div>
   )
 }
